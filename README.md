@@ -1,16 +1,17 @@
-## Hi there 👋
+# What's up!
 
-<!--
-**PedroTricoli/PedroTricoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pedro, a novice game developer based in Brazil.
 
-Here are some ideas to get you started:
+I like planning and designing game systems that appeal to me and trying to recreate features that I've seen before.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A bit obsessed with design patterns and clean code.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# E aí!
+
+Meu nome é Pedro, desenvolvedor de jogos iniciante diretamente do Brasil.
+
+Eu gosto de planejar e desenhar sistemas de jogo que pessoalmente gosto e tentar recriar alguns que já vi antes.
+
+Sou um pouco obcecado com padrões de design e código limpo. 
